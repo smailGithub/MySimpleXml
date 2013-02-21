@@ -1,0 +1,10 @@
+#Ignorer les fichier
+
+*.class
+*.settings
+*.classpath
+*.project
+
+#Ignorer dossier
+
+/home/etu5/GitRepositorieMaven/gitMaven/projet2/target
