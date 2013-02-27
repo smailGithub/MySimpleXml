@@ -9,7 +9,7 @@ public class parseurXom2 {
 		// TODO Auto-generated method stub
 		   
 		    Element root = new Element("root");    
-		    root.appendChild("Hello World!");
+		    root.appendChild("Correction bug !");
 		    Document doc = new Document(root);
 		    String result = doc.toXML();
 		    System.out.println(result);
